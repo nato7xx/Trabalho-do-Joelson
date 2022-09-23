@@ -1,0 +1,50 @@
+body{
+    background-color: #26242C
+}    
+#Imagemprimária{
+   display: flex;
+   height: 100px;
+   width: 320px;
+   
+}
+#Imagemsecundária{
+    height: 300px;
+}    
+
+h1{
+position: absolute;
+width: 460px;
+height: 138px;
+left: 160px;
+top: 220px;
+font-family: 'Poppins';
+font-weight: 400;
+color: #F5F5F5;
+}
+h6{
+    display: flex;
+    
+    right: 50px;
+    text-align:center;
+    color: #7D7A87;
+    font-family: 'Poppins';
+   
+}
+#Botãoprimário{
+position: absolute;
+width: 420px;
+height: 52px;
+left: 79px;
+top: 529px;
+background: #FFFFFF;
+border-radius: 8px;
+}
+#Botãosecundário{
+position: absolute;
+width: 270px;
+height: 52px;
+left: 450px;
+top: 529px;
+background: #04D361;
+border-radius: 8px;
+}
